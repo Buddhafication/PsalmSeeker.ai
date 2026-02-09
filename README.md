@@ -42,7 +42,7 @@ No cloud APIs. No data leaves your machine.
 
 ## 🎥 Demo
 
-https://github.com/ReverentCode/PsalmSeeker.ai/assets/demo/psalmseeker-demo.mp4
+https://github.com/ReverentCode/PsalmSeeker.ai/assets/demo/PsalmSeekerDemo.mp4
 
 ## 🚀 Setup & Run
 
