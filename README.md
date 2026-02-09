@@ -40,6 +40,10 @@ No cloud APIs. No data leaves your machine.
 
 ---
 
+## 🎥 Demo
+
+https://github.com/ReverentCode/PsalmSeeker.ai/assets/demo/psalmseeker-demo.mp4
+
 ## 🚀 Setup & Run
 
 ### 1️⃣ Create a virtual environment & install dependencies
